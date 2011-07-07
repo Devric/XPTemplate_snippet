@@ -22,4 +22,4 @@ Current snippets
 
 + 4.0.0 ruby
 
-please add an documentation readme.txt to each new folder for future cheatsheet creation. 
+please add an documentation eg: php.txt to each new language snippet for future cheatsheet creation. 
