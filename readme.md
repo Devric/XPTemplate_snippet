@@ -8,7 +8,8 @@ Share your snippet for any language!!
  ==================================
 
 ## index
-Current snippets
+Current snippets:
+
 + 1.0.0 html
 + 1.1.0 css
 
