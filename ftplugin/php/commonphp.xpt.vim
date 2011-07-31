@@ -13,11 +13,12 @@ XPT class
  * `comment^
  */
 
-`repeat...^`var^
-`repeat...^
 
 class `ClassName^
 {
+    `repeat...^`var^
+    `repeat...^
+
     function `__construct^(`argument^)
     {
     	`code^
